@@ -141,7 +141,8 @@ function onGalleryItemClick(event) {
       }
     });
     
-  } 
+  }
+  
 };
 
 function onModalBoxOpen() {
